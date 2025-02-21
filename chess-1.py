@@ -292,8 +292,3 @@ chessBoard()
 while True:
 	movePiece('w', 'b', whiteCaptured)
 	movePiece('b', 'w', blackCaptured)
-
-
-
-
-hbftnctvydrh
